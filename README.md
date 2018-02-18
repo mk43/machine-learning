@@ -8,5 +8,9 @@ The plan is I'll spend a lot of times on visualizing some popular algorithms in 
 
 ### [1.1 Linear Regression](http://fitzeng.org/2018/02/11/MLLinearRegression/)
 
+### [1.2 Logistic Regression](http://fitzeng.org/2018/02/16/MLLogisticRegression/)
+
+
 ### # NEXT TODO
-==> 1.2 Logistic Regression
+==> 1.3 Decision Tree <br/>
+==> 1.4 Neural Network
