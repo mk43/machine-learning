@@ -10,7 +10,8 @@ The plan is I'll spend a lot of times on visualizing some popular algorithms in 
 
 ### [1.2 Logistic Regression](http://fitzeng.org/2018/02/16/MLLogisticRegression/)
 
+### [1.3 Neural Network](http://fitzeng.org/2018/02/19/MLNeuralNetwork/)
 
 ### # NEXT TODO
-==> 1.3 Decision Tree <br/>
-==> 1.4 Neural Network
+==> 1.4 Decision Tree <br/>
+
